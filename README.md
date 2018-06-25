@@ -2,16 +2,15 @@
 
 This repository contains the current genome-scale metabolic models for 58 gut bacterial species, which are selected from gut microbiota of healthy and malnourished children.
 
-General Concepts:
+- General Concepts:
 
 Annotated genomes based on Rapid Annotation using Subsystem Technology (RAST) sever were used for reconstructing the GEMs at Kbase platform (The U.S. Department of Energy Systems Biology Knowledgebase, https://kbase.us/).
 
-- The basic principle is:
+- Abstract:
 
-In this work, we applied genome scale metabolic modeling, a constraint-based modeling framework, to model the gut microbial species, which were selected from healthy and malnourished children of three countries (Malawi, Bangladesh, and Sweden). These models helped to predict the metabolic capabilities of gut microbial species and to perform comparative analysis between different children groups in health and malnutrition in the term of growth of species and secretion of health-promoting small molecules such as short chain fatty acids and amino acids.
+Malnutrition is a severe noncommunicable disease, which is prevalent in children of low-income countries. Recently, a number of metagenomics studies have illustrated associations between an altered gut microbiota and child malnutrition. However, these studies did not examine metabolic functions and interactions between individual species in the gut microbiota during health and malnutrition. Here, we applied genome-scale metabolic modeling to model the gut microbial species, which were selected from healthy and malnourished children from three countries (Malawi, Bangladesh, and Sweden). Our analysis showed reduced metabolite production capabilities in children from Bangladesh and Malawi compared with Swedish children. Additionally, the models were also used to predict the community-level metabolic potentials of gut microbes and the patterns of pairwise interactions among species. Hereby we found that due to bacterial interactions there may be reduced production of certain amino acids in malnourish children compared with healthy children from the same communities. To gain insight into alterations in metabolism of malnourished (stunted) children, we also performed targeted plasma metabolic profiling in the first 2 years of life of 25 healthy and 25 stunted children from Bangladesh. Plasma metabolic profiling further revealed that stunted children had reduced plasma levels of essential amino acids compared to healthy controls. Our analyses provide a framework for future efforts towards further characterization of gut microbial metabolic capabilities and their contribution to malnutrition.
 
-
-- The models contain:
+- Main Model Descriptors:
 
 |Bacterial species | Model ID | Reactions | Metabolites| Genes |
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|
@@ -77,9 +76,9 @@ In this work, we applied genome scale metabolic modeling, a constraint-based mod
 
  
 
-This repository is administered by Manish Kumar & (manishku), and Dimitra Lappa (demilappa), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology
+This repository is administered by Manish Kumar [@manishku](https://github.com/manishku) and Dimitra Lappa [@demilappa](https://github.com/demilappa), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology
 
-Last update: 2017-07-07
+Last update: 2018-06-25
 
 
 ## Installation
