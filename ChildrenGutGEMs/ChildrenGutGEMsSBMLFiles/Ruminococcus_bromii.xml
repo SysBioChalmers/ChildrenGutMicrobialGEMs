@@ -11,7 +11,7 @@
       </unitDefinition>
     </listOfUnitDefinitions>
     <listOfCompartments>
-      <compartment metaid="c0" sboTerm="SBO:0000240" id="c0" name="Cyrosol" spatialDimensions="3" size="1" constant="true"/>
+      <compartment metaid="c0" sboTerm="SBO:0000240" id="c0" name="Cytosol" spatialDimensions="3" size="1" constant="true"/>
       <compartment metaid="e0" sboTerm="SBO:0000240" id="e0" name="Extracellular" spatialDimensions="3" size="1" constant="true"/>
     </listOfCompartments>
     <listOfSpecies>
@@ -7572,6 +7572,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05611"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7600,6 +7601,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00315"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7656,6 +7658,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.44"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03470"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7684,6 +7687,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.3.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01086"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7711,6 +7715,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.157"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05332"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7740,6 +7745,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.49"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02026"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7804,6 +7810,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.42"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01899"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7833,6 +7840,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.35"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00174"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7861,6 +7869,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.6.1.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05637"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7888,6 +7897,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.3.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03083"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7943,6 +7953,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.15"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03013"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7972,6 +7983,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01775"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8127,6 +8139,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.3.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01213"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8157,6 +8170,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.49"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01287"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8214,6 +8228,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.2.1.7"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05636"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8271,6 +8286,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00658"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8298,6 +8314,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00566"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8380,6 +8397,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01248"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8436,6 +8454,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.56"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02071"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8464,6 +8483,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.95"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01513"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8522,6 +8542,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04536"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8551,6 +8572,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.72"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04292"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8626,6 +8648,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04208"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8656,6 +8679,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.47"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00897"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8715,6 +8739,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04952"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8745,6 +8770,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00771"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8786,6 +8812,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.2.2.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00194"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8814,6 +8841,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00253"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8845,6 +8873,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.3.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00996"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8872,6 +8901,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.2.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01641"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8900,6 +8930,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02014"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8929,6 +8960,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00260"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9035,6 +9067,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.54"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01826"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9065,6 +9098,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02556"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9138,6 +9172,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.35"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02493"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9193,6 +9228,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01034"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9222,6 +9258,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.24"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00130"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9250,6 +9287,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.3.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01397"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9279,6 +9317,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.42"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01090"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9307,6 +9346,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.31"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04035"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9358,6 +9398,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04640"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9384,6 +9425,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.54"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00212"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9439,6 +9481,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.2.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01068"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9466,6 +9509,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02283"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9494,6 +9538,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00529"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9523,6 +9568,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00942"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9625,6 +9671,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04566"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9671,6 +9718,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.47"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04859"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9702,6 +9750,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04957"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9732,6 +9781,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.3.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00357"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9789,6 +9839,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.23"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00965"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9817,6 +9868,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00756"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9903,6 +9955,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01773"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9987,6 +10040,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01224"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10016,6 +10070,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03193"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10076,6 +10131,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.2.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02340"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10103,6 +10159,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.29"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02061"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10160,6 +10217,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01209"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10214,6 +10272,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01466"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10243,6 +10302,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01909"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10271,6 +10331,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.46"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06513"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10352,6 +10413,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00768"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10407,6 +10469,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00355"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10435,6 +10498,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.49"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03471"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10463,6 +10527,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04953"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10492,6 +10557,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04560"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10520,6 +10586,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00943"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10579,6 +10646,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00734"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10634,6 +10702,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00502"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10700,6 +10769,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.3.39"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00750"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10754,6 +10824,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.1.7"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02735"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10780,6 +10851,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.2.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01736"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10825,6 +10897,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02783"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10884,6 +10957,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03005"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10912,6 +10986,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.22"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01229"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10940,6 +11015,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.7"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00660"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10969,6 +11045,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01016"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11024,6 +11101,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00401"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11121,6 +11199,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01268"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11176,6 +11255,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05070"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11203,6 +11283,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03243"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11258,6 +11339,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.48"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03508"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11287,6 +11369,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.27"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05627"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11316,6 +11399,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.1.227"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05662"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11431,6 +11515,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.6.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00429"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11459,6 +11544,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01954"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11489,6 +11575,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00946"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11517,6 +11604,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00161"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11545,6 +11633,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01529"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11571,6 +11660,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00670"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11599,6 +11689,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.148"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05634"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11681,6 +11772,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03084"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11736,6 +11828,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.31"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06447"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11764,6 +11857,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.85"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04426"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11793,6 +11887,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01602"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11819,6 +11914,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01900"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11902,6 +11998,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05086"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11931,6 +12028,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02100"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11959,6 +12057,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.24"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00036"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12045,6 +12144,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02722"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12144,6 +12244,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03018"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12220,6 +12321,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.38"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00216"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12249,6 +12351,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01092"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12277,6 +12380,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03321"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12303,6 +12407,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.122"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00674"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12358,6 +12463,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.86"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05068"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12414,6 +12520,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.1.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00114"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12444,6 +12551,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04964"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12473,6 +12581,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01127"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12500,6 +12609,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00418"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12526,6 +12636,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.86"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03052"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12552,6 +12663,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01665"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12580,6 +12692,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.83"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07613"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12610,6 +12723,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.2.2.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01401"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12638,6 +12752,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01547"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12693,6 +12808,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05613"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12776,6 +12892,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00571"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12878,6 +12995,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00228"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12908,6 +13026,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.51"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01373"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12937,6 +13056,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03223"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13047,6 +13167,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00332"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13075,6 +13196,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.261"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00844"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13132,6 +13254,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00966"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13217,6 +13340,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.27"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00703"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13246,6 +13370,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01036"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13322,6 +13447,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.1.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00189"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13352,6 +13478,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.3.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00481"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13381,6 +13508,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.3.2.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04559"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13408,6 +13536,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01560"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13437,6 +13566,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00299"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13465,6 +13595,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01492"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13493,6 +13624,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.2.1.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01357"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13540,6 +13672,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02023"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13569,6 +13702,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.2.1.122"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00837"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13597,6 +13731,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04037"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13624,6 +13759,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.41"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03313"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13653,6 +13789,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.3.27"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00985"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13683,6 +13820,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.81"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07475"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13711,6 +13849,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04726"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13768,6 +13907,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04591"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13799,6 +13939,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01655"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13842,6 +13983,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00248"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13873,6 +14015,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.4.11.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00899"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13928,6 +14071,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01132"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13956,6 +14100,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.70"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01055"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14054,6 +14199,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.3.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01714"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14082,6 +14228,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.2.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04673"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14110,6 +14257,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01867"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14165,6 +14313,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.267"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05688"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14222,6 +14371,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.0"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01626"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14304,6 +14454,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.26"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00549"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14332,6 +14483,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04543"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14361,6 +14513,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.46"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01777"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14447,6 +14600,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.1.227"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05032"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14475,6 +14629,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.4.2.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02060"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14528,6 +14683,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.32"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00339"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14555,6 +14711,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.4.3.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02272"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14706,6 +14863,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.2.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14761,6 +14919,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.5.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04463"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14821,6 +14980,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.4.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00014"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14899,6 +15059,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.2.1.52"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00022"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14960,6 +15121,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02094"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14988,6 +15150,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03460"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15017,6 +15180,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.2.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02568"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15044,6 +15208,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07168"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15073,6 +15238,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.42"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02199"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15101,6 +15267,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01061"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15130,6 +15297,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01324"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15146,6 +15314,7 @@
       <reaction metaid="R_rxn00775" sboTerm="SBO:0000176" id="R_rxn00775" name="ADPribose ribophosphohydrolase c0" reversible="false" fast="false" fbc:lowerFluxBound="FB2N0" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>KEGGID:R01054_C00117xC03736</p>
             <p>References:R01054_C00117xC03736</p>
             <p>SUBSYSTEM: </p>
           </body>
@@ -15184,6 +15353,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00512"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15212,6 +15382,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02788"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15243,6 +15414,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00956"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15271,6 +15443,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.86"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03051"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15300,6 +15473,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.5.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01231"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15430,6 +15604,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03968"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15484,6 +15659,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.72"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01825"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15514,6 +15690,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.3.2.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01083"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15541,6 +15718,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.38"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00217"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15569,6 +15747,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01843"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15597,6 +15776,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02020"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15626,6 +15806,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.18"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00462"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15724,6 +15905,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03236"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15752,6 +15934,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00239"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15781,6 +15964,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01993"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15837,6 +16021,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.23"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01163"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15867,6 +16052,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.73"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04594"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15953,6 +16139,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.86"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05069"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15979,6 +16166,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.30"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00586"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16007,6 +16195,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.8.99.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R08553"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16126,6 +16315,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.23"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03012"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16155,6 +16345,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.3.27"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00986"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16185,6 +16376,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05612"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16242,6 +16434,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04963"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16272,6 +16465,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.52"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04173"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16444,6 +16638,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00945"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16516,6 +16711,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.86"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04440"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16642,6 +16838,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01220"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16698,6 +16895,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.1.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01730"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16727,6 +16925,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.4.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04386"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16755,6 +16954,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01072"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16785,6 +16985,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01600"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16856,6 +17057,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.61"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00084"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16884,6 +17086,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03457"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16938,6 +17141,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.205"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01130"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17013,6 +17217,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01244"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17105,6 +17310,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01082"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17132,6 +17338,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00451"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17187,6 +17394,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04968"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17316,6 +17524,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00351"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17374,6 +17583,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01624"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17402,6 +17612,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06987"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17430,6 +17641,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.2.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01829"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17484,6 +17696,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.6.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01049"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17512,6 +17725,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00259"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17571,6 +17785,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.261"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00842"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17600,6 +17815,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00196"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17687,6 +17903,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.71"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02412"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17715,6 +17932,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00754"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17772,6 +17990,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02022"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17801,6 +18020,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00127"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17828,6 +18048,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.70"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04109"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17858,6 +18079,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00177"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17888,6 +18110,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.5.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00575"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17921,6 +18144,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.1.1.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05578"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17952,6 +18176,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.18"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01334"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17981,6 +18206,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.52"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05085"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18009,6 +18235,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.24"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03509"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18125,6 +18352,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04533"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18182,6 +18410,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.7"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00190"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18294,6 +18523,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01251"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18323,6 +18553,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.8.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05630"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18351,6 +18582,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.38"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03443"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18407,6 +18639,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01288"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18436,6 +18669,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00762"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18465,6 +18699,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.85"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01716"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18493,6 +18728,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07268"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18549,6 +18785,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01724"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18578,6 +18815,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05220"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18606,6 +18844,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.25"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02413"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18635,6 +18874,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01663"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18774,6 +19014,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04355"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18804,6 +19045,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.100"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04534"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18833,6 +19075,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.5.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00578"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18892,6 +19135,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.42"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01214"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18920,6 +19164,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.2.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01280"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19053,6 +19298,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01135"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19188,6 +19434,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.27"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00948"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19243,6 +19490,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00480"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19272,6 +19520,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01056"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19298,6 +19547,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02003"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19326,6 +19576,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.2.1.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03050"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19381,6 +19632,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.4.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01518"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19407,6 +19659,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00485"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19435,6 +19688,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.23"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00416"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19518,6 +19772,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01325"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19561,6 +19816,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.2.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04325"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19661,6 +19917,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.8.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05629"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19689,6 +19946,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01353"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19718,6 +19976,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.9.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00206"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19749,6 +20008,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.6.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00619"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19848,6 +20108,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.40"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00200"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19876,6 +20137,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00291"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19973,6 +20235,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.5.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01856"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20029,6 +20292,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.2.1.20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00028"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20056,6 +20320,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.6.4.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02016"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20085,6 +20350,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06514"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20111,6 +20377,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.15"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02739"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20194,6 +20461,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00289"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20251,6 +20519,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00694"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20279,6 +20548,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02090"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20335,6 +20605,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01071"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20382,6 +20653,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.13"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04144"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20440,6 +20712,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.62"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03231"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20586,6 +20859,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02291"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20669,6 +20943,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.3.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02301"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20698,6 +20973,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01870"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20782,6 +21058,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.19"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03348"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20868,6 +21145,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04001"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20938,6 +21216,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.42"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00268"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20966,6 +21245,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01398"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20995,6 +21275,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00573"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21082,6 +21363,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04558"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21128,6 +21410,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.18"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01073"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21183,6 +21466,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.35"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02282"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21231,6 +21515,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03220"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21261,6 +21546,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05555"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21316,6 +21602,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.4.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04385"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21347,6 +21634,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.4.2.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01818"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21373,6 +21661,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.23"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00104"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21401,6 +21690,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.49"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00341"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21506,6 +21796,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01658"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21590,6 +21881,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02649"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21619,6 +21911,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01512"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21676,6 +21969,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02237"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21750,6 +22044,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03266"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21778,6 +22073,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03035"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21806,6 +22102,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.22"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02142"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21834,6 +22131,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.169"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02472"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21863,6 +22161,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.50"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04448"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21921,6 +22220,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.3.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01015"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21947,6 +22247,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.48"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00962"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21975,6 +22276,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.158"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03192"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22004,6 +22306,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.7"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04509"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22087,6 +22390,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00582"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22116,6 +22420,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00004"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22144,6 +22449,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.1.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01728"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22200,6 +22506,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01654"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22274,6 +22581,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.60"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05633"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22302,6 +22610,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01150"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22375,6 +22684,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.5.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00257"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22407,6 +22717,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.1.179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04960"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22501,6 +22812,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00086"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22526,6 +22838,17 @@
             <p>SUBSYSTEM: Valine, leucine and isoleucine biosynthesis</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn01208">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01652"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd02605_c0" stoichiometry="1" constant="true"/>
@@ -22545,6 +22868,17 @@
             <p>SUBSYSTEM: </p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn04132">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06063"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd08625_c0" stoichiometry="1" constant="true"/>
@@ -22564,6 +22898,17 @@
             <p>SUBSYSTEM: </p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn04133">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06064"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd08625_c0" stoichiometry="1" constant="true"/>
@@ -22631,6 +22976,17 @@
             <p>SUBSYSTEM: Arginine and proline metabolism</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn02374">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03314"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00858_c0" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -22650,6 +23006,17 @@
             <p>SUBSYSTEM: Vitamin B6 metabolism</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn05116">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07406"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd04539_c0" stoichiometry="1" constant="true"/>
@@ -22675,6 +23042,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.99.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04336"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22705,6 +23073,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.110"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07316"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22729,6 +23098,17 @@
             <p>SUBSYSTEM: </p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn02666">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03758"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd02211_c0" stoichiometry="1" constant="true"/>
@@ -22748,6 +23128,17 @@
             <p>SUBSYSTEM: Purine metabolism</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn04457">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06605"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd09027_c0" stoichiometry="1" constant="true"/>
@@ -22773,6 +23164,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06604"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22803,6 +23195,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.1.18"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02317"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22827,6 +23220,17 @@
             <p>SUBSYSTEM: Lysine degradation</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn02916">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04175"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd02074_c0" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -22852,6 +23256,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.7.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02668"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22883,6 +23288,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04620"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22914,6 +23320,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.8.26"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05223"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22944,6 +23351,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.4.3.8"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01469"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23064,6 +23472,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.18.-.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06282"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23095,6 +23504,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.26"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03459"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23126,6 +23536,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04990"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23157,6 +23568,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.21"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04209"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23187,6 +23599,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00131"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23218,6 +23631,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.38"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00490"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23277,6 +23691,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.1.15"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00836"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23340,6 +23755,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.25"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00425"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23372,6 +23788,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.1.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03845"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23432,6 +23849,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.16.3.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00078"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23492,6 +23910,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04230"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23524,6 +23943,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.21"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01333"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23556,6 +23976,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.2.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01226"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23606,6 +24027,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.4.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01623"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23636,6 +24058,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04986"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23684,6 +24107,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.14.12.17"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05725"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23805,6 +24229,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.25"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03171"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23837,6 +24262,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.1.156"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06558"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23990,6 +24416,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.2.5"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02424"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24079,6 +24506,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.7.3.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02106"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24110,6 +24538,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.193"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03458"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24271,6 +24700,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.14.13.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01960"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24304,6 +24734,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.3.2.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00776"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24333,6 +24764,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.1.3.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00420"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24419,6 +24851,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.7.62"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05222"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24508,6 +24941,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.64"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05614"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24538,6 +24972,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.1.187"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05566"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24616,6 +25051,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.5.1.3"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00939"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24647,6 +25083,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.4.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02024"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24678,6 +25115,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.3.2.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00494"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24708,6 +25146,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01470"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24738,6 +25177,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.1.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00855"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24762,6 +25202,17 @@
             <p>SUBSYSTEM: Tryptophan metabolism</p>
           </body>
         </notes>
+        <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#R_rxn02989">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04293"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_cpd02692_c0" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -24786,6 +25237,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.2.25"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03504"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24815,6 +25267,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.1.76"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03947"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24864,6 +25317,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.3.36"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04150"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24913,6 +25367,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05884"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24994,6 +25449,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00650"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25025,6 +25481,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.13.11.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00678"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25054,6 +25511,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.7.1.14"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02492"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25134,6 +25592,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.3.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02422"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25225,6 +25684,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.25"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01651"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25276,6 +25736,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.36"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03269"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25397,6 +25858,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/5.4.4.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01717"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25425,6 +25887,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.37"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03197"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25489,6 +25952,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.3.2.10"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04617"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25627,6 +26091,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.7.2.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00783"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25689,6 +26154,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.7.7.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00790"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25760,6 +26226,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.1.1.204"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02103"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25839,6 +26306,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.148"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06613"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25901,6 +26369,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.4.2.21"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04148"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25954,6 +26423,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.99.1.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00310"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25984,6 +26454,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00570"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26093,6 +26564,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.78"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04457"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26143,6 +26615,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.17.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07219"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26175,6 +26648,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00489"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26233,6 +26707,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.15"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03066"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26281,6 +26756,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.13.11.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02665"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26370,6 +26846,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04031"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26498,6 +26975,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.12.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00700"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26631,6 +27109,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.1.3.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07280"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26696,6 +27175,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.3.3.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03222"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26726,6 +27206,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.99.12"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R07281"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26802,6 +27283,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.107"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03194"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26833,6 +27315,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.1.1.222"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04988"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26893,6 +27376,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00066"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26922,6 +27406,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.22"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02474"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26981,6 +27466,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00617"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27029,6 +27515,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.18.6.1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05185"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27112,6 +27599,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.14.13.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R06146"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27144,6 +27632,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.4.16"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00424"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27175,6 +27664,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.2.1.75"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R03165"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27204,6 +27694,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/1.2.1.28"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01293"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27236,6 +27727,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/6.2.1.26"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R04030"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27297,6 +27789,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.4.6"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00156"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27437,6 +27930,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.5.1.-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05615"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27467,6 +27961,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.5.1.9"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R01959"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27529,6 +28024,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/2.7.8.33"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R08856"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27617,6 +28113,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.1.3.38"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R05553"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27677,6 +28174,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/4.99.1.4"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02864"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27755,6 +28253,7 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/ec-code/3.3.1.2"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R00175"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -27903,7 +28402,7 @@
         </listOfProducts>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX 4 5 dihydroxy 2 3 pentanedione c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd08636" sboTerm="SBO:0000176" id="R_EX_cpd08636" name="EX 4 5 dihydroxy 2 3 pentanedione c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27914,7 +28413,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX glycogenn 1 c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd15302" sboTerm="SBO:0000176" id="R_EX_cpd15302" name="EX glycogenn 1 c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27925,7 +28424,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX S Adenosyl 4 methylthio 2 oxobutanoate c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd02701" sboTerm="SBO:0000176" id="R_EX_cpd02701" name="EX S Adenosyl 4 methylthio 2 oxobutanoate c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27936,7 +28435,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX Biomass c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd11416" sboTerm="SBO:0000176" id="R_EX_cpd11416" name="EX Biomass c0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27947,7 +28446,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00971_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00971" sboTerm="SBO:0000176" id="R_EX_cpd00971" name="EX_cpd00971_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27958,7 +28457,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00023_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00023" sboTerm="SBO:0000176" id="R_EX_cpd00023" name="EX_cpd00023_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27969,7 +28468,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00009_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00009" sboTerm="SBO:0000176" id="R_EX_cpd00009" name="EX_cpd00009_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27980,7 +28479,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00048_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00048" sboTerm="SBO:0000176" id="R_EX_cpd00048" name="EX_cpd00048_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -27991,7 +28490,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01171_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01171" sboTerm="SBO:0000176" id="R_EX_cpd01171" name="EX_cpd01171_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28002,7 +28501,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00067_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00067" sboTerm="SBO:0000176" id="R_EX_cpd00067" name="EX_cpd00067_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28013,7 +28512,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00205_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00205" sboTerm="SBO:0000176" id="R_EX_cpd00205" name="EX_cpd00205_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28024,7 +28523,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00027_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00027" sboTerm="SBO:0000176" id="R_EX_cpd00027" name="EX_cpd00027_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28035,7 +28534,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00082_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00082" sboTerm="SBO:0000176" id="R_EX_cpd00082" name="EX_cpd00082_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28046,7 +28545,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01030_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01030" sboTerm="SBO:0000176" id="R_EX_cpd01030" name="EX_cpd01030_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28057,7 +28556,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00268_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00268" sboTerm="SBO:0000176" id="R_EX_cpd00268" name="EX_cpd00268_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28068,7 +28567,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00129_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00129" sboTerm="SBO:0000176" id="R_EX_cpd00129" name="EX_cpd00129_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28079,7 +28578,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01329_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01329" sboTerm="SBO:0000176" id="R_EX_cpd01329" name="EX_cpd01329_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28090,7 +28589,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00314_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00314" sboTerm="SBO:0000176" id="R_EX_cpd00314" name="EX_cpd00314_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28101,7 +28600,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00588_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00588" sboTerm="SBO:0000176" id="R_EX_cpd00588" name="EX_cpd00588_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28112,7 +28611,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00013_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00013" sboTerm="SBO:0000176" id="R_EX_cpd00013" name="EX_cpd00013_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28123,7 +28622,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00224_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00224" sboTerm="SBO:0000176" id="R_EX_cpd00224" name="EX_cpd00224_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28134,7 +28633,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00226_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00226" sboTerm="SBO:0000176" id="R_EX_cpd00226" name="EX_cpd00226_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28145,7 +28644,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00644_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00644" sboTerm="SBO:0000176" id="R_EX_cpd00644" name="EX_cpd00644_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28156,7 +28655,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd10515_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd10515" sboTerm="SBO:0000176" id="R_EX_cpd10515" name="EX_cpd10515_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28167,7 +28666,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00099_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00099" sboTerm="SBO:0000176" id="R_EX_cpd00099" name="EX_cpd00099_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28178,7 +28677,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00104_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00104" sboTerm="SBO:0000176" id="R_EX_cpd00104" name="EX_cpd00104_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28189,7 +28688,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00047_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00047" sboTerm="SBO:0000176" id="R_EX_cpd00047" name="EX_cpd00047_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28200,7 +28699,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00276_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00276" sboTerm="SBO:0000176" id="R_EX_cpd00276" name="EX_cpd00276_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28211,7 +28710,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00034_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00034" sboTerm="SBO:0000176" id="R_EX_cpd00034" name="EX_cpd00034_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28222,7 +28721,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd03198_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd03198" sboTerm="SBO:0000176" id="R_EX_cpd03198" name="EX_cpd03198_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28233,7 +28732,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01012_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01012" sboTerm="SBO:0000176" id="R_EX_cpd01012" name="EX_cpd01012_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28244,7 +28743,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01262_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01262" sboTerm="SBO:0000176" id="R_EX_cpd01262" name="EX_cpd01262_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28255,7 +28754,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00531_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00531" sboTerm="SBO:0000176" id="R_EX_cpd00531" name="EX_cpd00531_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28266,7 +28765,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00122_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00122" sboTerm="SBO:0000176" id="R_EX_cpd00122" name="EX_cpd00122_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28277,7 +28776,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00092_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00092" sboTerm="SBO:0000176" id="R_EX_cpd00092" name="EX_cpd00092_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28288,7 +28787,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00058_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00058" sboTerm="SBO:0000176" id="R_EX_cpd00058" name="EX_cpd00058_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28299,7 +28798,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd04097_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd04097" sboTerm="SBO:0000176" id="R_EX_cpd04097" name="EX_cpd04097_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28310,7 +28809,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00794_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00794" sboTerm="SBO:0000176" id="R_EX_cpd00794" name="EX_cpd00794_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28321,7 +28820,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00138_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00138" sboTerm="SBO:0000176" id="R_EX_cpd00138" name="EX_cpd00138_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28332,7 +28831,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00076_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00076" sboTerm="SBO:0000176" id="R_EX_cpd00076" name="EX_cpd00076_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28343,7 +28842,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00179_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00179" sboTerm="SBO:0000176" id="R_EX_cpd00179" name="EX_cpd00179_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28354,7 +28853,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00073_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00073" sboTerm="SBO:0000176" id="R_EX_cpd00073" name="EX_cpd00073_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28365,7 +28864,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd03696_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd03696" sboTerm="SBO:0000176" id="R_EX_cpd03696" name="EX_cpd03696_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28376,7 +28875,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00220_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00220" sboTerm="SBO:0000176" id="R_EX_cpd00220" name="EX_cpd00220_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28387,7 +28886,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00254_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00254" sboTerm="SBO:0000176" id="R_EX_cpd00254" name="EX_cpd00254_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28398,7 +28897,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd10516_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd10516" sboTerm="SBO:0000176" id="R_EX_cpd10516" name="EX_cpd10516_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28409,7 +28908,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00001_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00001" sboTerm="SBO:0000176" id="R_EX_cpd00001" name="EX_cpd00001_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28420,7 +28919,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00011_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00011" sboTerm="SBO:0000176" id="R_EX_cpd00011" name="EX_cpd00011_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28431,7 +28930,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00007_e0" reversible="false" fast="false" fbc:lowerFluxBound="FB2N0" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00007" sboTerm="SBO:0000176" id="R_EX_cpd00007" name="EX_cpd00007_e0" reversible="false" fast="false" fbc:lowerFluxBound="FB2N0" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28442,7 +28941,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00107_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00107" sboTerm="SBO:0000176" id="R_EX_cpd00107" name="EX_cpd00107_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28453,7 +28952,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00051_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00051" sboTerm="SBO:0000176" id="R_EX_cpd00051" name="EX_cpd00051_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28464,7 +28963,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00066_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00066" sboTerm="SBO:0000176" id="R_EX_cpd00066" name="EX_cpd00066_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28475,7 +28974,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00119_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00119" sboTerm="SBO:0000176" id="R_EX_cpd00119" name="EX_cpd00119_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28486,7 +28985,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00069_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00069" sboTerm="SBO:0000176" id="R_EX_cpd00069" name="EX_cpd00069_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28497,7 +28996,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00025_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00025" sboTerm="SBO:0000176" id="R_EX_cpd00025" name="EX_cpd00025_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28508,7 +29007,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00063_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00063" sboTerm="SBO:0000176" id="R_EX_cpd00063" name="EX_cpd00063_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28519,7 +29018,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00214_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00214" sboTerm="SBO:0000176" id="R_EX_cpd00214" name="EX_cpd00214_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28530,7 +29029,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00149_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00149" sboTerm="SBO:0000176" id="R_EX_cpd00149" name="EX_cpd00149_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28541,7 +29040,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00039_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00039" sboTerm="SBO:0000176" id="R_EX_cpd00039" name="EX_cpd00039_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28552,7 +29051,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd01080_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd01080" sboTerm="SBO:0000176" id="R_EX_cpd01080" name="EX_cpd01080_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28563,7 +29062,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00161_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00161" sboTerm="SBO:0000176" id="R_EX_cpd00161" name="EX_cpd00161_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28574,7 +29073,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd03847_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd03847" sboTerm="SBO:0000176" id="R_EX_cpd03847" name="EX_cpd03847_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28585,7 +29084,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00065_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00065" sboTerm="SBO:0000176" id="R_EX_cpd00065" name="EX_cpd00065_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28596,7 +29095,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00060_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00060" sboTerm="SBO:0000176" id="R_EX_cpd00060" name="EX_cpd00060_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28607,7 +29106,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00322_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00322" sboTerm="SBO:0000176" id="R_EX_cpd00322" name="EX_cpd00322_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28618,7 +29117,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00035_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00035" sboTerm="SBO:0000176" id="R_EX_cpd00035" name="EX_cpd00035_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28629,7 +29128,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00084_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00084" sboTerm="SBO:0000176" id="R_EX_cpd00084" name="EX_cpd00084_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
@@ -28640,7 +29139,7 @@
         </listOfReactants>
         <fbc:geneProductAssociation/>
       </reaction>
-      <reaction metaid="R_EX" sboTerm="SBO:0000176" id="R_EX" name="EX_cpd00030_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
+      <reaction metaid="R_EX_cpd00030" sboTerm="SBO:0000176" id="R_EX_cpd00030" name="EX_cpd00030_e0" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB3N1000">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>SUBSYSTEM: </p>
